@@ -26,7 +26,6 @@
     </style>
 </head>
 <body>
-# Hi, I'm [blessy muigai]
 
 ## About Me
 - I'm a (freelancer).
