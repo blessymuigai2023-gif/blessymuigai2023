@@ -6,14 +6,14 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 
 ---
 
-## Exercise 3 — Links
+##  Links
 
 - [My GitHub Profile](https://github.com/blessymuigai2023-gif)
 - [GitHub Documentation](https://docs.github.com)
 
 ---
 
-## Exercise 4 — Lists
+##  Lists
 
 ### Things I Want to Learn
 - Git and GitHub properly
@@ -28,7 +28,7 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 
 ---
 
-## Exercise 5 — Table
+##  Table
 
 | Tool      | Purpose              | Link |
 |-----------|----------------------|------|
@@ -37,7 +37,7 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 
 ---
 
-## Exercise 6 — Task List
+## Task List
 
 - [x] Created GitHub account  
 - [x] Created profile repository  
