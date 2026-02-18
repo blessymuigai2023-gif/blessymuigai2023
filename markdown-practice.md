@@ -46,7 +46,18 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 
 ---
 
-## Exercise 7 — Code Block
+##  Code Block
 
 ```python
-print("Hello, GitHub!")
+print ("Hello, GitHub!")
+
+## Blockquote
+Small progress every day is better than no progress at all.
+
+## About Me
+Hi, I'm learning how to use GitHub, practice Markdown, and write clean code.
+I am currently working on:
+Improving my skills
+Building projects
+Staying consistent
+Here is one of my favorite resources: GitHub
