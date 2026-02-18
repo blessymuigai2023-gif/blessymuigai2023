@@ -52,13 +52,15 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 print ("Hello, GitHub!")
 ```
 
-## Blockquote
+## my quote
 Small progress every day is better than no progress at all.
 
 ## About Me
 Hi, I'm learning how to use GitHub, practice Markdown, and write clean code.
+
 I am currently working on:
-Improving my skills
-Building projects
-Staying consistent
+
+-Improving my skills
+-Building projects
+-Staying consistent
 Here is one of my favorite resources: GitHub
