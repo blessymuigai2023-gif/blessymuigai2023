@@ -50,6 +50,7 @@ I want to become **confident** in using GitHub and feel *comfortable* writing Ma
 
 ```python
 print ("Hello, GitHub!")
+```
 
 ## Blockquote
 Small progress every day is better than no progress at all.
