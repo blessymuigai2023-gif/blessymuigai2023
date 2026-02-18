@@ -1,4 +1,4 @@
-# Hi, I'm [blessy muigai]
+# Hi, I'm ["blessy muigai"]
 
 ## About Me
 - I'm working as a  ["freelancer"].
@@ -7,11 +7,11 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- ["Python"]
-- ["c"]
+- Python
+- c
 
 ## Current Projects
-- [Project name](link) — short description
+- [learning AI]
 
 ## How to Reach Me
 - Email: [blessymuigai2023@gmail.com]
