@@ -60,7 +60,8 @@ Hi, I'm learning how to use GitHub, practice Markdown, and write clean code.
 
 I am currently working on:
 
--Improving my skills
--Building projects
--Staying consistent
+- Improving my skills
+- Building projects
+- Staying consistent
+  
 Here is one of my favorite resources: GitHub
